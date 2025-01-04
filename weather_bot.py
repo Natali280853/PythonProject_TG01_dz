@@ -14,7 +14,7 @@ from config import TOKEN
 
 API_KEY = '272009fd696656bbaea88b8d974dd950'  # Замените на ваш ключ API
 # TELEGRAM_TOKEN = 'YOUR_TELEGRAM_BOT_TOKEN'  # Замените на токен вашего бота
-CITY = 'Tyumen'  # Укажите город
+CITY = 'Тюмень'  # Укажите город
 
 
 # Настройка логирования
