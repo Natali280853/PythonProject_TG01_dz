@@ -1,7 +1,6 @@
 import asyncio
 import logging
 import sys
-# from os import getenv
 
 from aiogram import Bot, Dispatcher, html
 from aiogram.client.default import DefaultBotProperties
@@ -11,11 +10,6 @@ from aiogram.types import Message
 
 import requests
 from config import TOKEN
-
-# from aiogram import Bot, Dispatcher, types
-# from aiogram.filters import Command
-# from aiogram.types import ParseMode
-# from aiogram.utils import executor
 
 
 API_KEY = '272009fd696656bbaea88b8d974dd950'  # Замените на ваш ключ API
